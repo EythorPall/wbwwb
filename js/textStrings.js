@@ -4,16 +4,16 @@
 
 var textStrings_EN = {
 	// Act 1
-	"niceHat": "OOH NICE HAT",
-	"outtaHere": "yeah git on outta here",
-	"getARoom": "GROSS, GO GET A ROOM",
-	"notCoolAnymore": "nvm hats aren't cool anymore",
-	"tvOnTv": "A TV... ON TV!",
-	"cricky": "LIL' CRICKY <3",
-	"tooManyCrickets": "okay that's too many crickets",
-	"normalPeep": "just a normal peep",
-	"normalPeeps": "just some normal peeps",
-	"wowNothing": "WOWWEE, IT'S NOTHING",
+	"niceHat": "ÚÚÚ! FLOTTUR HATTUR",
+	"outtaHere": "já, drullisti í burtu!",
+	"getARoom": "OJ, FÁIÐ YKKUR HERBERGI",
+	"notCoolAnymore": "gleymið því, hattar eru úr tísku",
+	"TVonTV": "Sjónvarp... Í SJÓNVARPI!",
+	"cricky": "LILLI KAKKI <3",
+	"tooManyCrickets": "ókei, þetta eru of margir kakkalakkar",
+	"normalPeep": "bara venjulegt píp",
+	"normalPeeps": "bara venjulegir pípar",
+	"wowNothing": "Vá, Þetta er EKKERT!",
 
 	// Act 2
 	"crazySquareAttacks": "CRAZED SQUARE ATTACKS",
